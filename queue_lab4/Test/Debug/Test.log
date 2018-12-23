@@ -1,6 +1,3 @@
 ﻿  test_queue.cpp
-  test_main.cpp
-  gtest-all.cc
-  Создание кода...
   Test.vcxproj -> C:\Documents\Visual Studio 2017\Projects\mp2-lab4-queue\queue_lab4\Debug\Test.exe
   Test.vcxproj -> C:\Documents\Visual Studio 2017\Projects\mp2-lab4-queue\queue_lab4\Debug\Test.pdb (Partial PDB)
