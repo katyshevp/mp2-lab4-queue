@@ -23,10 +23,10 @@
     <ClCompile Include="gtest-all.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="test_main.cpp">
+    <ClCompile Include="test_queue.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="test_queue.cpp">
+    <ClCompile Include="test_main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
